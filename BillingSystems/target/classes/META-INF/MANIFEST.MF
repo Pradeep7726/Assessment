@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: pradeepl
+Build-Jdk: 17.0.8.1
+Implementation-Title: BillingSystems
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.infinite
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/BillingSystems
+ /
+Created-By: Maven Integration for Eclipse
+
